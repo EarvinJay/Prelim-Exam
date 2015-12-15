@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Prelim Exam</string>
+    <string name="action_settings">Settings</string>
+    <string name="Seekbar"></string>
+    <string name="btnStart">Start</string>
+    <string name="rdbIncrease">Faster</string>
+    <string name="rdbDecrease">Slower</string>
+    <string name="Time">0</string>
+    <string name="RadioGroup">IncDec</string>
+    <string name="timebar">IncDec</string>
+
+</resources>
